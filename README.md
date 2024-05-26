@@ -8,4 +8,4 @@
 
 #在线试玩
 
-#https://shilr.github.io/lifeRestartZero/view/index.html
+#https://myPirlo.github.io/lifeRestartZero/view/index.html
